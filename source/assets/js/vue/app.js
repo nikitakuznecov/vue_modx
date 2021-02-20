@@ -1,9 +1,8 @@
-import * as Vue from 'vue';
+import * as Vue from 'vue'
+import App from './App.vue'
+import axios from 'axios'
 
-const myApp = {
+window.axios = axios;
 
-    mounted(){
-        alert('Привет весм это Vue + modx revo!')   
-    }  
-}  
-Vue.createApp(myApp).mount("#app");            
+var app = Vue.createApp(App);
+window.vm = app.mount('#app');

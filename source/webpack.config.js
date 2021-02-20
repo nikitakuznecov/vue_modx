@@ -6,7 +6,7 @@ module.exports = {
     entry: './assets/js/vue/app.js',
     output: {
         path: path.resolve("../assets/js/vue"),
-        publicPath: "assets/vue/js/",
+        publicPath: "assets/js/vue/",
         filename: "app.js"
     },
     module: {
