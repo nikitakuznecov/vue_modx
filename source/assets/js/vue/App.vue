@@ -1,27 +1,27 @@
 <template>
-    <transition name="fade" mode="out-in">
-        <div class="container">
-            <Blog></Blog> 
-        </div>
-    </transition>
+    <NavBar />
+    <div class="container">
+        <!-- crumbs -->
+        <transition name="fade" mode="out-in">
+            <router-view></router-view>
+        </transition>
+        <!-- footer -->
+    </div>
 </template>
-
 <script>
- 
-import { defineAsyncComponent } from 'vue';
+    import NavBar from './components/NavBar.vue'
 
-export default {
-    components:{
-        Blog: defineAsyncComponent(() => import(/* webpackChunkName: 'blog' */'./views/Blog.vue')),
-        Contacts: defineAsyncComponent(() => import(/* webpackChunkName: 'contacts' */'./views/Contacts.vue')),
-    },
-    data(){
-         return {
-             message: 'VUE + modx revo!'
-         }
-    },
-    mounted(){
+    export default {
+        components: {
+            NavBar,
+        },
+        data(){
+            return{
+                show: true
+            }
+        },
+        mounted(){
 
+        }
     }
-}
 </script>

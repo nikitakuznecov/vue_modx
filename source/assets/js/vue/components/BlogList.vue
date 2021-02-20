@@ -6,7 +6,7 @@
                 <div class="card-body">
                     <h5 class="card-title">{{resource.pagetitle}}</h5> 
                     <p class="card-text">{{resource.introtext}}</p>
-                    <a href="{{ resource.uri }}" class="btn btn-primary">Подробнее</a>
+                    <router-link class="btn btn-primary" :to="{path: '/' + resource.uri}">Подробнее</router-link>
                 </div>
             </div>
         </div>

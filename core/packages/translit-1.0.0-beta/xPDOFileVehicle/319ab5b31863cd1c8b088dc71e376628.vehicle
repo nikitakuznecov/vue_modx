@@ -1,0 +1,25 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'translit-1.0.0-beta/xPDOFileVehicle/319ab5b31863cd1c8b088dc71e376628/',
+    'target' => 'return MODX_CORE_PATH . \'components/\';',
+    'name' => 'translit',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'namespace' => 'translit',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"translit-1.0.0-beta\\/xPDOFileVehicle\\/319ab5b31863cd1c8b088dc71e376628.resolve.settings.resolver","type":"php","name":"resolve.settings"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => 'fe1b050fb6dd48802d47f5e41f315589',
+  'package' => '',
+  'signature' => '319ab5b31863cd1c8b088dc71e376628',
+  'native_key' => 'fe1b050fb6dd48802d47f5e41f315589',
+);
