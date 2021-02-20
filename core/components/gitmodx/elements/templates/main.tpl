@@ -12,6 +12,6 @@
     			[[$Footer]]
     		</div>
 		</div>
-		<script src="assets/js/vue/app.js"></script>
+		<!-- <script src="assets/js/vue/app.js"></script> -->
 	</body>
 </html>

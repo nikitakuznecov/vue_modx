@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tinymce',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a57320d3b0a3c0ae6e86bda27877b1ff',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c1c327f67b0611cccf821ac28c19fd02',
+  'native_key' => 'tiny.element_format',
+  'object' => '{"key":"tiny.element_format","value":"xhtml","xtype":"textfield","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

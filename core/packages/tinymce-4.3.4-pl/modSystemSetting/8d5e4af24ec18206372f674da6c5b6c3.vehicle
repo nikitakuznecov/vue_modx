@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tinymce',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5cfd3c786f0ad3ec0674acf563974971',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8d5e4af24ec18206372f674da6c5b6c3',
+  'native_key' => 'tiny.nowrap',
+  'object' => '{"key":"tiny.nowrap","value":false,"xtype":"combo-boolean","namespace":"tinymce","area":"general","editedon":null}',
+);
