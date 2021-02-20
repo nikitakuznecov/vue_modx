@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec60b441d3e1a04202a1d962569ae4c3',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '76be213190de3e7bde8cf74f4f574972',
+  'native_key' => 'request_controller',
+  'object' => '{"key":"request_controller","value":"index.php","xtype":"textfield","namespace":"core","area":"gateway","editedon":null}',
+);

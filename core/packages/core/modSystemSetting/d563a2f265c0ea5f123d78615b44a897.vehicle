@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4d04c98f7f8d964d6f8b6c0064eb6ba3',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd563a2f265c0ea5f123d78615b44a897',
+  'native_key' => 'show_tv_categories_header',
+  'object' => '{"key":"show_tv_categories_header","value":true,"xtype":"combo-boolean","namespace":"core","area":"manager","editedon":null}',
+);

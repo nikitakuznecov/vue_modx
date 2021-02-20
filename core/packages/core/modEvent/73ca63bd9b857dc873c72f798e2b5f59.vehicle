@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b56d126f7a7fe8ec5ffeed574532288b',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '73ca63bd9b857dc873c72f798e2b5f59',
+  'native_key' => 'OnEmptyTrash',
+  'object' => '{"name":"OnEmptyTrash","service":1,"groupname":"Resources"}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'name',
+  'namespace' => 'themebootstrap',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => 'c411f1e92f57ac35d1bb2105cda20675',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'b577b1324fb45fdb9fb7fafa09732fa1',
+  'native_key' => 0,
+  'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Content","description":"Content chunk","editor_type":0,"category":0,"cache_type":0,"snippet":"<h3>[[*pagetitle]]<\\/h3>\\n\\n<article>\\n\\t[[*content]]\\n<\\/article>\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/content.tpl","content":"<h3>[[*pagetitle]]<\\/h3>\\n\\n<article>\\n\\t[[*content]]\\n<\\/article>\\n"}',
+);

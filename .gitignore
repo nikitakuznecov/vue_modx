@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+/core/cache
+/db/migrations
+/db/remotedb
+/db/localdb/actual_*.sql
+/assets/images/products/**\/*
+/assets/images/resources/**\/*
+/images/*
+/db/db.conf
+/core/components/gitmodx/config
+/core/config/config.inc.php
+/assets/files
+/source/node_modules

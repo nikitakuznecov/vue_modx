@@ -1,0 +1,16 @@
+<?php return array (
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'name',
+  'namespace' => 'themebootstrap',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => '201f61b2de24b657a096f4b3f05ecbe0',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '9bfb3d86c8ab6ff871441332c575cb5e',
+  'native_key' => 0,
+  'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Head","description":"Scripts and styles","editor_type":0,"category":0,"cache_type":0,"snippet":"<meta charset=\\"[[++modx_charset]]\\">\\n<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1, shrink-to-fit=no\\">\\n<meta name=\\"description\\" content=\\"[[*description]]\\">\\n<base href=\\"[[++site_url]]\\" \\/>\\n<title>[[!pdoTitle]] \\/ [[++site_name]]<\\/title>\\n\\n[[*id:input=`<link href=\\"[[++assets_url]]components\\/themebootstrap\\/css\\/bootstrap.min.css\\" rel=\\"stylesheet\\">`:htmlToBottom]]\\n[[*id:input=`<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/jquery-3.5.1.min.js\\"><\\/script>`:jsToBottom=`1`]]\\n[[*id:input=`<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/bootstrap.bundle.min.js\\"><\\/script>`:jsToBottom=`1`]]\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/head.tpl","content":"<meta charset=\\"[[++modx_charset]]\\">\\n<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1, shrink-to-fit=no\\">\\n<meta name=\\"description\\" content=\\"[[*description]]\\">\\n<base href=\\"[[++site_url]]\\" \\/>\\n<title>[[!pdoTitle]] \\/ [[++site_name]]<\\/title>\\n\\n[[*id:input=`<link href=\\"[[++assets_url]]components\\/themebootstrap\\/css\\/bootstrap.min.css\\" rel=\\"stylesheet\\">`:htmlToBottom]]\\n[[*id:input=`<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/jquery-3.5.1.min.js\\"><\\/script>`:jsToBottom=`1`]]\\n[[*id:input=`<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/bootstrap.bundle.min.js\\"><\\/script>`:jsToBottom=`1`]]\\n"}',
+);

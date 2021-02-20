@@ -1,0 +1,16 @@
+<?php return array (
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'name',
+  'namespace' => 'themebootstrap',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => 'd50e42b12519c77d5603489cfcd144cd',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'e735e73945d44021098efd6036da391f',
+  'native_key' => 0,
+  'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Crumbs","description":"Breadcrumb chunk","editor_type":0,"category":0,"cache_type":0,"snippet":"[[pdoCrumbs?\\n\\t&showAtHome=`0`\\n\\t&showHome=`1`\\n]]","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/crumbs.tpl","content":"[[pdoCrumbs?\\n\\t&showAtHome=`0`\\n\\t&showHome=`1`\\n]]"}',
+);

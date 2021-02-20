@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c4b154418d6622b106f5fd91e02b0f3c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f83b73a6b1c1fbb1335baffab2b263fb',
+  'native_key' => 'log_snippet_not_found',
+  'object' => '{"key":"log_snippet_not_found","value":true,"xtype":"combo-boolean","namespace":"core","area":"site","editedon":null}',
+);

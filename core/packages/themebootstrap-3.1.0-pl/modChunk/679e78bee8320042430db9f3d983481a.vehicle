@@ -1,0 +1,16 @@
+<?php return array (
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'name',
+  'namespace' => 'themebootstrap',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => '433b023fbb8ae23d4017fcb6daa06d01',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '679e78bee8320042430db9f3d983481a',
+  'native_key' => 0,
+  'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Footer","description":"Footer chunk","editor_type":0,"category":0,"cache_type":0,"snippet":"<footer class=\\"row mt-5\\">\\n    <div class=\\"col-12 col-md-6 text-center text-md-left\\">\\n        <ul class=\\"list-unstyled\\">\\n            <li><small>total time: [^t^]<\\/small><\\/li>\\n            <li><small>query time: [^qt^]<\\/small><\\/li>\\n            <li><small>queries: [^q^]<\\/small><\\/li>\\n            <li><small>memory: [^m^]<\\/small><\\/li>\\n        <\\/ul>\\n    <\\/div>\\n    <div class=\\"col-12 col-md-6 text-center text-md-right\\">\\n        &copy;&nbsp;[[++site_name]]\\n    <\\/div>\\n<\\/footer>","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/footer.tpl","content":"<footer class=\\"row mt-5\\">\\n    <div class=\\"col-12 col-md-6 text-center text-md-left\\">\\n        <ul class=\\"list-unstyled\\">\\n            <li><small>total time: [^t^]<\\/small><\\/li>\\n            <li><small>query time: [^qt^]<\\/small><\\/li>\\n            <li><small>queries: [^q^]<\\/small><\\/li>\\n            <li><small>memory: [^m^]<\\/small><\\/li>\\n        <\\/ul>\\n    <\\/div>\\n    <div class=\\"col-12 col-md-6 text-center text-md-right\\">\\n        &copy;&nbsp;[[++site_name]]\\n    <\\/div>\\n<\\/footer>"}',
+);

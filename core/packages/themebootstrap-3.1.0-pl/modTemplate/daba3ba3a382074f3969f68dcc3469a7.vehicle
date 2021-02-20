@@ -1,0 +1,16 @@
+<?php return array (
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'preserve_keys' => false,
+  'update_object' => false,
+  'unique_key' => 'templatename',
+  'namespace' => 'themebootstrap',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'guid' => '4be9de1c1f29ca5e764488038c34d0af',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => 'daba3ba3a382074f3969f68dcc3469a7',
+  'native_key' => 0,
+  'object' => '{"id":0,"source":1,"property_preprocess":0,"templatename":"Bootstrap","description":"Bootstrap template","editor_type":0,"category":0,"icon":"","template_type":0,"content":"<!DOCTYPE html>\\n<html lang=\\"en\\">\\n\\t<head>\\n\\t\\t[[$Head]]\\n\\t<\\/head>\\n\\t<body>\\n\\t\\t[[$Navbar]]\\n\\t\\t<div class=\\"container mt-3\\">\\n\\t\\t\\t[[$Crumbs]]\\n\\t\\t\\t[[$Content]]\\n\\t\\t\\t[[$Footer]]\\n\\t\\t<\\/div>\\n\\t<\\/body>\\n<\\/html>\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/templates\\/bootstrap.tpl"}',
+);
